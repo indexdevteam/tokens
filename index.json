@@ -1,0 +1,453 @@
+{
+  "name": "Index",
+  "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+
+  "keywords": [
+    "audited",
+    "verified",
+    "native tokens"
+  ],
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "elonindex": {
+      "name": "Dogelon Index",
+      "description": "Tokens that earn interest on dogelonindex.org"
+    },
+    "native": {
+      "name": "Native Tokens",
+      "description": "Tokens that are native to their network"
+    },
+    "arbitrum": {
+      "name": "Arbitrum Tokens",
+      "description": "Tokens which depend on Arbitrum Bridge."
+    },
+    "omnibridge": {
+      "name": "Omnibridge Tokens",
+      "description": "Tokens which depend on Omnibridge."
+    },
+    "wormhole": {
+      "name": "Wormhole Tokens",
+      "description": "Tokens which depend on Wormhole bridge."
+    },
+    "harmony": {
+      "name": "Harmony Tokens",
+      "description": "Tokens which depend on Harmony bridge."
+    }
+  },
+  "timestamp": "2022-11-11T19:08:00.000Z",
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x35ac92580eb672d9c76fee4228165f6ef224c334",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "native", "stablecoin"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x64c1b62fe216b167bc7fd5b217630d494954b4c4",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index (Wormhole)",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "wormhole", "stablecoin"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x801a1aac66f610e8d73e0737253559c0ef1c27c1",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index from xDai (Wormhole)",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "wormhole", "stablecoin"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x0fe518b164aa1d9fe8de92a11688ea8c4e392219",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index (Wormhole)",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "wormhole", "stablecoin"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x4006cb86cf238af7fa761b9792aa02939545e604",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index (Wormhole)",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "wormhole", "stablecoin"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x1fBeF12C70Ef97fB8f22C5A2aB6E7580Ce86D14D",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index (Wormhole)",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "wormhole", "stablecoin"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xe93bcea58912a4843039c97ebcd8b7dcab186017",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index from Mainnet from",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "wormhole", "stablecoin"]
+    },
+    {
+      "chainId": 137,
+      "address": "0xAc11Bbd89106C5Ac4838Ee7C1cE42EcA3049981e",
+      "symbol": "1ELONINDEX",
+      "name": "Dogelon Index (Wormhole)",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "harmony", "wormhole", "stablecoin"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x435ff07da91507d6b590ece08edc27c71adce08d",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index from Mainnet from",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "omnibridge", "wormhole", "stablecoin"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x1deFA61862E27E5C9E8b9f8daE769290B9CF6D93",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index from Mainnet from",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "omnibridge", "wormhole", "stablecoin"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x1b17016a9012f35b79f0835f513ebe0a6a8623d0",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "native", "stablecoin"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xac3df891b4745ed87d60ce160b4a4f55eba85a95",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index from BSC",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "omnibridge", "stablecoin"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xFa05C6e9207e3d6b23CdDBbfCEd4DfeBf13BF8D5",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index from Mainnet from",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "omnibridge", "wormhole", "stablecoin"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xfBF5a3563E92E64Ec5D4cc98b4a0A6e7c57C9C50",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index from Mainnet from",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "omnibridge", "wormhole", "stablecoin"]
+    },
+    {
+      "chainId": 10,
+      "address": "0x58eE50d72904C62Aca4D712648f9edd85f63D056",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "native", "stablecoin"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x9d134ca8993ee5569a9ea177add71b93b39f6296",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "native", "stablecoin"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xdba58e35a34b2dcd5fa50444a3c1f93ee44863fe",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index (Wormhole)",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "wormhole", "stablecoin"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x99C2F27635Ccac08210c343Cb96fb6Ddb725fdD3",
+      "symbol": "1ELONINDEX",
+      "name": "Dogelon Index",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "harmony", "stablecoin"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xa8155f8C9d625f868aE77Cf30699D80e41b82cf3",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "wormhole", "stablecoin"]
+    },
+  {
+      "chainId": 56,
+      "address": "0x8131853f6b38fe64283013040e63c2a577435663",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index (Wormhole)",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "wormhole", "stablecoin"]
+    },
+  {
+      "chainId": 56,
+      "address": "0xab0bac8a9aa5696093c87c61607caf884b619773",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index from Mainnet from xDai",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "stablecoin"]
+    },
+  {
+      "chainId": 56,
+      "address": "0x8a1b4b3bcace4c853969e5f3ef596109c3e6f404",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index from Mainnet from xDai",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "omnibridge", "stablecoin"]
+    },
+  {
+      "chainId": 56,
+      "address": "0x2c0d5a2e96a6db9e02db32a0e4f6d42bfc2c4251",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index from Mainnet from from Mainnet from xDai",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "omnibridge", "wormhole", "stablecoin"]
+    },
+  {
+      "chainId": 56,
+      "address": "0x0b080a12daa14d5def693edce79bfc89e4174650",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index from Mainnet from from Mainnet from xDai",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "omnibridge", "wormhole", "stablecoin"]
+    },
+  {
+      "chainId": 100,
+      "address": "0x58eE50d72904C62Aca4D712648f9edd85f63D056",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "native", "stablecoin"]
+    },
+  {
+      "chainId": 100,
+      "address": "0x1834e58185048bce90a174f113a38d2c0cefb7a8",
+      "symbol": "1ELONINDEX",
+      "name": "Dogelon Index from BSC",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "harmony", "omnibridge", "stablecoin"]
+    },
+  {
+      "chainId": 100,
+      "address": "0x21a11b8e649A4dE08eb7ab36b34f893e13aAeec0",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index from BSC",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "omnibridge", "stablecoin"]
+    },
+  {
+      "chainId": 100,
+      "address": "0xB363b0244c6Cfa0707476f908ae338B720EF722E",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index from BSC",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "omnibridge", "stablecoin"]
+    },
+  {
+      "chainId": 100,
+      "address": "0x1A5aA5a1D38Ab93Dce71a6f15bb99DC40420F671",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index from BSC",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "omnibridge", "stablecoin"]
+    },
+  {
+      "chainId": 100,
+      "address": "0x2592683752F8ca5963751d93498bD4ac9B0Fe298",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index from Mainnet",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "omnibridge", "stablecoin"]
+    },
+  {
+      "chainId": 100,
+      "address": "0xfd21768A5F7A35899667a5B632CbE0a9A0dE86a4",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index from Mainnet from from Mainnet",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "omnibridge", "wormhole", "stablecoin"]
+  },
+  {
+      "chainId": 100,
+      "address": "0x9712c8dfF7cA05e9dc374b2b7665286751103113",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index from Mainnet from from Mainnet",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "omnibridge", "wormhole", "stablecoin"]
+  },
+  {
+      "chainId": 42161,
+      "address": "0x58ee50d72904c62aca4d712648f9edd85f63d056",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "native", "stablecoin"]
+    },
+  {
+      "chainId": 42161,
+      "address": "0xc9A57fcbf6d84f5fBb8837A1303CF7f19CF26634",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "arbitrum", "stablecoin"]
+    },
+  {
+      "chainId": 321,
+      "address": "0x777d733b1eea9d336a0d6b67eef50c2d65b5b421",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "native", "stablecoin"]
+    },
+  {
+      "chainId": 1666600000,
+      "address": "0x58eE50d72904C62Aca4D712648f9edd85f63D056",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "native", "stablecoin"]
+    },
+  {
+      "chainId": 1666600000,
+      "address": "0x2141f2053e50dc750b02eddbc3688c6d0fcf5abb",
+      "symbol": "bscELONINDEX",
+      "name": "Dogelon Index from xDai",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "omnibridge", "harmony", "stablecoin"]
+    },
+  {
+      "chainId": 1666600000,
+      "address": "0x7A43535A6BF3a945d0E2601fcFEEA2A418D194FD",
+      "symbol": "bscELONINDEX",
+      "name": "Dogelon Index",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "harmony", "stablecoin"]
+    },
+  {
+      "chainId": 1666600000,
+      "address": "0x27b3e5fd27c2fee301c0e911bd5de1e389d85d31",
+      "symbol": "bscELONINDEX",
+      "name": "Dogelon Index (Wormhole)",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "wormhole", "harmony", "stablecoin"]
+    },
+  {
+      "chainId": 43114,
+      "address": "0xaa88e2cceC46E5895d7Ff5C1B87976C6c84E9461",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "native", "stablecoin"]
+    },
+  {
+      "chainId": 43114,
+      "address": "0x1e8345CE87d5dC1a9591984320eA23b8ce0d151c",
+      "symbol": "1ELONINDEX",
+      "name": "Dogelon Index",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "harmony", "stablecoin"]
+    },
+  {
+      "chainId": 43114,
+      "address": "0x74c52691d6712cBb51d46eEA341D533222d94Bd8",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index (Wormhole)",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "wormhole", "stablecoin"]
+    },
+  {
+      "chainId": 2000,
+      "address": "0x58eE50d72904C62Aca4D712648f9edd85f63D056",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "native", "stablecoin"]
+    },
+  {
+      "chainId": 61,
+      "address": "0x58eE50d72904C62Aca4D712648f9edd85f63D056",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "native", "stablecoin"]
+    },
+  {
+      "chainId": 10001,
+      "address": "0x9d134ca8993ee5569a9ea177add71b93b39f6296",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "native", "stablecoin"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
