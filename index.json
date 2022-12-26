@@ -130,6 +130,15 @@
       "tags": ["elonindex", "omnibridge", "wormhole", "stablecoin"]
     },
     {
+      "chainId": 137,
+      "address": "0xC8fD88129fCb223e4E6f0c5566589cAa7c2D1FA7",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index from xDai",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "omnibridge", "wormhole", "stablecoin"]
+    },
+    {
       "chainId": 1,
       "address": "0x1b17016a9012f35b79f0835f513ebe0a6a8623d0",
       "symbol": "ELONINDEX",
@@ -196,7 +205,7 @@
       "chainId": 56,
       "address": "0xdba58e35a34b2dcd5fa50444a3c1f93ee44863fe",
       "symbol": "ELONINDEX",
-      "name": "Dogelon Index (Wormhole)",
+      "name": "Dogelon Index",
       "decimals": 18,
       "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
       "tags": ["elonindex", "wormhole", "stablecoin"]
@@ -223,7 +232,7 @@
       "chainId": 56,
       "address": "0x8131853f6b38fe64283013040e63c2a577435663",
       "symbol": "ELONINDEX",
-      "name": "Dogelon Index (Wormhole)",
+      "name": "Dogelon Index",
       "decimals": 18,
       "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
       "tags": ["elonindex", "wormhole", "stablecoin"]
@@ -394,7 +403,7 @@
       "chainId": 1666600000,
       "address": "0x27b3e5fd27c2fee301c0e911bd5de1e389d85d31",
       "symbol": "bscELONINDEX",
-      "name": "Dogelon Index (Wormhole)",
+      "name": "Dogelon Index",
       "decimals": 18,
       "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
       "tags": ["elonindex", "wormhole", "harmony", "stablecoin"]
