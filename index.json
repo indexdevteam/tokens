@@ -166,6 +166,15 @@
       "tags": ["elonindex", "omnibridge", "wormhole", "stablecoin"]
     },
     {
+      "chainId": 1,
+      "address": "0x5eadbae612a97aa2c59d9faf023dd0c1de977ab3",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index from xDai",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "omnibridge", "stablecoin"]
+    },
+    {
       "chainId": 10,
       "address": "0x58eE50d72904C62Aca4D712648f9edd85f63D056",
       "symbol": "ELONINDEX",
