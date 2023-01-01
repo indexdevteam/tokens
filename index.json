@@ -184,6 +184,15 @@
       "tags": ["elonindex", "omnibridge", "stablecoin"]
     },
     {
+      "chainId": 1,
+      "address": "0x007bd0A01502DA7AC7372d525FCC8BcddB798D1F",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index from BSC from xDai",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "omnibridge", "stablecoin"]
+    },
+    {
       "chainId": 10,
       "address": "0x58eE50d72904C62Aca4D712648f9edd85f63D056",
       "symbol": "ELONINDEX",
