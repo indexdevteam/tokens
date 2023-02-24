@@ -1,0 +1,235 @@
+{
+  "name": "Dogelon Mars",
+  "logoURI": "ipfs://QmSR6wwdbiUmPxeUFmKQidhWdcWq3Lx4uYb6e7Nu16ECee",
+
+  "keywords": [
+    "audited",
+    "verified",
+    "bridged tokens"
+  ],
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "elonindex": {
+      "name": "Dogelon Index",
+      "description": "Tokens that earn interest on dogelonindex.org"
+    },
+    "elon": {
+      "name": "Dogelon Mars",
+      "description": "Standard Dogelon Mars tokens"
+    },
+    "native": {
+      "name": "Native Tokens",
+      "description": "Tokens that are native to their network"
+    },
+    "arbitrum": {
+      "name": "Arbitrum Tokens",
+      "description": "Tokens which depend on Arbitrum Bridge."
+    },
+    "arbitrum": {
+      "name": "Binance Tokens",
+      "description": "Tokens which depend on Binance Bridge."
+    },
+    "fuse": {
+      "name": "Fuse Tokens",
+      "description": "Tokens which depend on Fuse Bridge."
+    },
+    "omnibridge": {
+      "name": "Omnibridge Tokens",
+      "description": "Tokens which depend on Omnibridge."
+    },
+    "wormhole": {
+      "name": "Wormhole Tokens",
+      "description": "Tokens which depend on Wormhole bridge."
+    },
+    "harmony": {
+      "name": "Harmony Tokens",
+      "description": "Tokens which depend on Harmony bridge."
+    },
+    "polygon": {
+      "name": "Polygon Tokens",
+      "description": "Tokens which depend on Polygon bridge."
+    }
+  },
+  "timestamp": "2022-11-11T19:08:00.000Z",
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0xe0339c80ffde91f3e20494df88d4206d86024cdf",
+      "symbol": "ELON",
+      "name": "Dogelon Mars",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSR6wwdbiUmPxeUFmKQidhWdcWq3Lx4uYb6e7Nu16ECee",
+      "tags": ["elon", "polygon"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x71459cf7a1cf69b1dc431ca51340d24fae288f2c",
+      "symbol": "11ELON",
+      "name": "Dogelon Mars",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSR6wwdbiUmPxeUFmKQidhWdcWq3Lx4uYb6e7Nu16ECee",
+      "tags": ["elon", "wormhole", "harmony"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x1c4a1f33c6ec98d92e55043995094a5cf33e6d38",
+      "symbol": "1111ELON",
+      "name": "Dogelon Mars",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSR6wwdbiUmPxeUFmKQidhWdcWq3Lx4uYb6e7Nu16ECee",
+      "tags": ["elon", "wormhole", "harmony"]
+    },
+    {
+      "chainId": 137,
+      "address": "0x75c58cadf4fb24a3354a816160c941677c8c7d23",
+      "symbol": "ELON",
+      "name": "Dogelon Mars",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSR6wwdbiUmPxeUFmKQidhWdcWq3Lx4uYb6e7Nu16ECee",
+      "tags": ["elon", "wormhole"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3",
+      "symbol": "ELON",
+      "name": "Dogelon Mars",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSR6wwdbiUmPxeUFmKQidhWdcWq3Lx4uYb6e7Nu16ECee",
+      "tags": ["elon", "native"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xCD696c4EfBbb2e1C6Cd510AAA381715E00682149",
+      "symbol": "11ELON",
+      "name": "Dogelon Mars",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSR6wwdbiUmPxeUFmKQidhWdcWq3Lx4uYb6e7Nu16ECee",
+      "tags": ["elon", "harmony"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x7bd6FaBD64813c48545C9c0e312A0099d9be2540",
+      "symbol": "ELON",
+      "name": "Dogelon Mars",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSR6wwdbiUmPxeUFmKQidhWdcWq3Lx4uYb6e7Nu16ECee",
+      "tags": ["elon", "binance"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x039301B11976904fACCBaFFa116830066Fb4Aa06",
+      "symbol": "ELON",
+      "name": "Dogelon Mars",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSR6wwdbiUmPxeUFmKQidhWdcWq3Lx4uYb6e7Nu16ECee",
+      "tags": ["elon", "wormhole", "stablecoin"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x1838F1a63c38BB557D10F56eF516a2b1B7973712",
+      "symbol": "ELON",
+      "name": "Dogelon Mars",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSR6wwdbiUmPxeUFmKQidhWdcWq3Lx4uYb6e7Nu16ECee",
+      "tags": ["elon", "polygon", "wormhole"]
+    },
+    {
+      "chainId": 56,
+      "address": "0x831755268ceb70b83d9ad5d8dc2db2d72327628e",
+      "symbol": "11ELON",
+      "name": "Dogelon Mars",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSR6wwdbiUmPxeUFmKQidhWdcWq3Lx4uYb6e7Nu16ECee",
+      "tags": ["elon", "harmony"]
+    },
+    {
+      "chainId": 56,
+      "address": "0xf86ddde701d41a14de227e7a0da1e21e1e48831e",
+      "symbol": "1111ELON",
+      "name": "Dogelon Mars",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSR6wwdbiUmPxeUFmKQidhWdcWq3Lx4uYb6e7Nu16ECee",
+      "tags": ["elon", "harmony", "wormhole"]
+    },
+    {
+      "chainId": 100,
+      "address": "0xf4e445c9f3f743b65a343259efed9fd8175ee651",
+      "symbol": "ELON",
+      "name": "Dogelon Mars",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSR6wwdbiUmPxeUFmKQidhWdcWq3Lx4uYb6e7Nu16ECee",
+      "tags": ["elon", "polygon", "wormhole", "omnibridge"]
+    },
+    {
+      "chainId": 100,
+      "address": "0x0A2FA3aB5e39aF7bFF663cecEBF8CbEe7180ffE1",
+      "symbol": "ELON",
+      "name": "Dogelon Mars",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSR6wwdbiUmPxeUFmKQidhWdcWq3Lx4uYb6e7Nu16ECee",
+      "tags": ["elon", "binance", "omnibridge"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x3e4Cff6E50F37F731284A92d44AE943e17077fD4",
+      "symbol": "ELON",
+      "name": "Dogelon Mars",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSR6wwdbiUmPxeUFmKQidhWdcWq3Lx4uYb6e7Nu16ECee",
+      "tags": ["elon", "arbitrum"]
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xDf7249D8d8DA04834fFc0b9B282aa39D74D0d12B",
+      "symbol": "1ELON",
+      "name": "Dogelon Mars",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSR6wwdbiUmPxeUFmKQidhWdcWq3Lx4uYb6e7Nu16ECee",
+      "tags": ["elon", "harmony"]
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0x4fA086c9aF9e189e9407D752df0D660611d95B08",
+      "symbol": "111ELON",
+      "name": "Dogelon Mars",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSR6wwdbiUmPxeUFmKQidhWdcWq3Lx4uYb6e7Nu16ECee",
+      "tags": ["elon", "harmony", "wormhole"]
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xe37CBdbA95a8716D11E356E14cEe8C13969f88f9",
+      "symbol": "bscELON",
+      "name": "Dogelon Mars",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSR6wwdbiUmPxeUFmKQidhWdcWq3Lx4uYb6e7Nu16ECee",
+      "tags": ["elon", "wormhole", "harmony"]
+    },
+    {
+      "chainId": 1666600000,
+      "address": "0xc94bc4ece99a0241692190d2da1a8f00a8787a43",
+      "symbol": "bscELON",
+      "name": "Dogelon Mars",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSR6wwdbiUmPxeUFmKQidhWdcWq3Lx4uYb6e7Nu16ECee",
+      "tags": ["elon", "polygon", "wormhole", "harmony"]
+    },
+    {
+      "chainId": 122,
+      "address": "0x5DD8015cec49F4dB01fd228F688BF30337d3e0A9",
+      "symbol": "ELON",
+      "name": "Dogelon Mars",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSR6wwdbiUmPxeUFmKQidhWdcWq3Lx4uYb6e7Nu16ECee",
+      "tags": ["elon", "fuse"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
