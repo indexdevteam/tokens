@@ -20,6 +20,10 @@
       "name": "Native Tokens",
       "description": "Tokens that are native to their network"
     },
+    "testnet": {
+      "name": "Testnet Tokens",
+      "description": "Testnet tokens"
+    },
     "arbitrum": {
       "name": "Arbitrum Tokens",
       "description": "Tokens which depend on Arbitrum Bridge."
@@ -380,6 +384,15 @@
       "decimals": 18,
       "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
       "tags": ["elonindex", "arbitrum", "stablecoin"]
+    },
+  {
+      "chainId": 84531,
+      "address": "0xD90030e866EF07f971202BE6739325d8c9daB62A",
+      "symbol": "ELONINDEX",
+      "name": "Dogelon Index",
+      "decimals": 18,
+      "logoURI": "ipfs://QmSQW1xPFAxNLsFe8hcFDnT2qDiweoviM8VWtEtNwTUfpb",
+      "tags": ["elonindex", "native", "testnet"]
     },
   {
       "chainId": 321,
